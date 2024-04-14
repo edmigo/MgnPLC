@@ -1,0 +1,2 @@
+# MgnPLC
+MgnPLC Mobile application
